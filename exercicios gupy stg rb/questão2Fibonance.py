@@ -11,11 +11,9 @@ Esse número pode ser informado através de qualquer entrada de sua preferência
 fib = [1,1]
 i = 0
 num = int(input("Entre com um número: "))
-
 while num > len(fib):
 	fib.append(fib[i] + fib[i+1])
 	i+=1
-
 if num not in fib:
 	print (f"O numero {num} não pertence a sequencia Fibonacci {fib}")
 else:
