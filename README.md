@@ -1,2 +1,3 @@
-# projetos e exercicios
+# projétos e exercicios
  repositório para exesrciocios e testes
+
